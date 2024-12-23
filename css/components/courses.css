@@ -49,9 +49,13 @@
 .courses a {
   font-size: var(--fs-7);
   font-weight: 700;
-  color: var(--color-pink-600);
-  transition: opacity 150ms ease-in-out;
+  transition: opacity 150ms ease-in-out, text-decoration 300ms ease;
   align-self: end;
+}
+
+.courses a:hover {
+  text-decoration: underline;
+  opacity: 0.8;
 }
 
 .courses a:hover {

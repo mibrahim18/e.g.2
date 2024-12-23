@@ -5,8 +5,8 @@
   --color-pink-300: hsl(341, 100%, 83%);
   --color-grey: hsl(232, 10%, 56%);
   --color-white: hsl(0, 0%, 100%);
-  --gradient-pink: linear-gradient(hsl(13, 100%, 64%), hsl(322, 87%, 55%));
-  --gradient-purple: linear-gradient(hsl(237, 100%, 64%), hsl(322, 87%, 55%));
+  --gradient-pink: linear-gradient(hsl(204, 100%, 64%), hsl(247, 75%, 26%));
+  --gradient-purple: linear-gradient(hsl(237, 100%, 64%), hsl(245, 87%, 55%));
 }
 
 *,
@@ -20,7 +20,7 @@ main {
 }
 
 body {
-  font-family: 'Plus Jakarta Sans', Arial, Helvetica, sans-serif;
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-weight: 500;
   margin: 0;
 }
